@@ -14,7 +14,7 @@ class Footer extends Component {
                         <p>
                         Join the movement for better life…
                         </p>
-                        <div className ="d-flex col-4 justify-content-around pointer  white" >
+                        <div className ="d-flex col-sm-4 justify-content-around pointer white" >
                         <FaPinterest />
                         <FaFacebook/>
                         <FaTwitter/>
@@ -29,7 +29,7 @@ class Footer extends Component {
                         <p className ="pa2 ma-2 pointer text-white"><span><FaPhone/></span>+234-9034567890</p>
                     </div>
                 </div>
-                 <div className="tc h-10 mb0 mt3 ww-100 pa3 bg-near-white" > Copyrights &copy; 2020 <span className="bg-warning" > Team109_BSD.</span> All rights reserved.</div>
+                 <div className="tc h-10 mb0 mt3 ww-100 pa3 bg-near-white" > Copyrights &copy; 2020 <span className="text-secondary" > Team109_BSD.</span> All rights reserved.</div>
                 
             </footer>
         )

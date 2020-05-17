@@ -55,7 +55,7 @@ import { Button,Form,Modal } from 'react-bootstrap';
             <Form onSubmit ={this.onSubmit}>
                 <Form.Group controlId="formBasicEmail">
                     <Form.Label>Email address</Form.Label>
-                    <Form.Control type="email" name="email" placeholder="Enter email" />
+                    <Form.Control type="email" name="email" placeholder="Enter email" required />
                 </Form.Group>
 
                 <Form.Group controlId="formBasicPassword">
@@ -63,9 +63,9 @@ import { Button,Form,Modal } from 'react-bootstrap';
                     <Form.Control type="password" name="password" placeholder="Password" />
                 </Form.Group>
                 <Form.Group controlId="formBasicCheckbox">
-                    <Form.Check type="checkbox" label="Remember me" />
+                    <Form.Check type="checkbox" name="check" label="Remember me" />
                 </Form.Group>
-                <Button className="w-100" variant="primary" type="submit">
+                <Button className="w-100 bg-warning" variant="success" type="submit">
                     Submit
                 </Button>
             </Form>

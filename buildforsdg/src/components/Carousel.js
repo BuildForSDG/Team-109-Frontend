@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Navigation from "./NavBar";
+import Donor from "./DonorBtn";
 import Carousel from 'react-bootstrap/Carousel';
 
 class Slides extends Component {
     render() {
         return (
             <header>
-                <Navigation/>
+                
             <Carousel>
                 <Carousel.Item>
                     <img
@@ -16,10 +16,10 @@ class Slides extends Component {
                         height="400"
                         width="900"
                     />
-                    {/* <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                    </Carousel.Caption> */}
+                    <Carousel.Caption>
+                        <h3>JOIN OVER MILLION PEOPLE SUPPORTING CROWDFUNDING....</h3>
+                        {/* <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
+                    </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
@@ -30,13 +30,14 @@ class Slides extends Component {
                         width="900"
                     />
 
-                    {/* <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    </Carousel.Caption> */}
+                    <Carousel.Caption>
+                    <h3>JOIN OVER MILLION PEOPLE SUPPORTING CROWDFUNDING....</h3>
+                        {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
+                    </Carousel.Caption>
                 </Carousel.Item>
                
             </Carousel>
+            <Donor/>
             </header>
         )
     }
