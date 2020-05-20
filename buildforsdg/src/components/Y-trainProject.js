@@ -23,8 +23,8 @@ export class Youthproject extends Component {
                        <img src={process.env.PUBLIC_URL + '/images/alc_acad.jpg'} alt="alc_acad" />
                         <div className="mt4" ><h5 className="tc">Youth Training Project</h5></div>
                         <div  className="offset-4 mt4">
-                            <span  className="border pa2  ">#</span> 
-                           <input className="pa1 w-20 " type="text" name ="amount" onChange={this.onSearchField} placeholder="$1.00" />
+                            <span  className="border pa2 bg-light-gray ">#</span> 
+                           <input className="pa1 w-20 " type="text" name ="amount" onChange={this.onSearchField} placeholder="1.00" />
                         </div>
                         <div className="mt4 w-20">
                             <span className="bg-warning pa2">{this.state.amount}</span>
@@ -37,12 +37,12 @@ export class Youthproject extends Component {
                         <em className="ma3">comments </em>
                    </div>
                    <div className="col-sm">
-                       <h3>What is Crowd-Funding about?</h3>
+                       {/* <h3>What is Crowd-Funding about?</h3>
                        <p>
                             Crowdfunding is a new type of fundraising where you can raise funds for your own personal cause, 
                             even if you're not a registered charity.
                        </p>
-                       <a href="#" className="ml-auto hover-yellow">BE A VOLUNTEER</a>
+                       <p className="ml-auto hover-yellow">BE A VOLUNTEER</p> */}
                        <div className="pa3 w-70 bg-gray">
                            <input className="bg-warning pa2 w-70" type="text" name ="search" onChange={this.onSearchField} placeholder="Search here" />
                        </div>
@@ -60,7 +60,7 @@ export class Youthproject extends Component {
                                             <img className="col-sm-3 mb3" src={item.imageSrc} alt="cardImage" width='100px' />
                                             <div>
                                                 <h6 className="pointer">{item.category}</h6>
-                                                <p>₦ 0 Raised / Goal: <span className="text-warning">unlimited</span></p>
+                                                <p>₦ {this.state.amount} Raised / Goal: <span className="text-warning">unlimited</span></p>
                                             </div>
                                         </div>
                                     )}

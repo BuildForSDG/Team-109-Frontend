@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Button,Form,Modal } from 'react-bootstrap';
+import {Modal } from 'react-bootstrap';
 import DonorForm from "./UserForm"
 
 
@@ -16,7 +16,7 @@ import DonorForm from "./UserForm"
           };
         
           setModalShow = () => {
-            this.setState({ modalShow: true ,modalTitle: "Please Sign Up here."});
+            this.setState({ modalShow: true ,modalTitle: "Youth's Corner- Please Sign Up here."});
           };
     render() {
         return (<div>

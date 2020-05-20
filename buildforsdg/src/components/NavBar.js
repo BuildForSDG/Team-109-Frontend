@@ -12,9 +12,9 @@ class Navigation extends Component {
                 <Navbar.Brand href="/"><img src={process.env.PUBLIC_URL + '/images/Teamlogo.png'} alt="BrandLogo" width="55" /> </Navbar.Brand>
                 <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="center p-2 bg-warning" >
-                    <Nav.Link href="/" className=" br hover-bg-white-60 active text-white" >HOME</Nav.Link>
-                    <Nav.Link href="/cause"  className="br hover-bg-white-60">OUR CAUSE</Nav.Link>
-                    <Nav.Link href="#"  className="br hover-bg-white-60">ABOUT US</Nav.Link>
+                    <Nav.Link href="/" className="br hover-bg-white-60 active text-white" >HOME</Nav.Link>
+                    <Nav.Link href="/cause" className="br hover-bg-white-60">OUR CAUSE</Nav.Link>
+                    <Nav.Link href="/about" className="br hover-bg-white-60">ABOUT US</Nav.Link>
                     <Nav.Link href="#"  className="hover-bg-white-60">DONATION</Nav.Link>
                 </Nav>
             <Nav className="ml-auto">
