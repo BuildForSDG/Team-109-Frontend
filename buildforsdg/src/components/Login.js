@@ -51,7 +51,7 @@ import { Button,Form,Modal } from 'react-bootstrap';
                 {this.state.modalTitle}
               {/* </Modal.Title> */}
             </Modal.Header>
-            <Modal.Body className="center">
+            <Modal.Body className="bg-warning ">
             <Form onSubmit ={this.onSubmit}>
                 <Form.Group controlId="formBasicEmail">
                     <Form.Label>Email address</Form.Label>

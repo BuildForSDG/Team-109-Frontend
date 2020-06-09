@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { Card,Button } from 'react-bootstrap';
+import { Card} from 'react-bootstrap';
 import Donor from "./DonorBtn";
-import {Data} from "./Data";
+import {Data} from "../utils/Data";
 
 class Cause extends Component {
     render() {

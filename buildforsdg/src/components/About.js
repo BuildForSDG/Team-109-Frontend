@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { Button,Form, } from 'react-bootstrap';
-
+import TeamCard from "./Teammembercard";
 export default class About extends Component {
     render() {
         return (
-            <div className="container">
+            <div className="container bg-light" >
                 <h4 className="tc pa2 mt4">About Us</h4>
                 <p>
                     Nigeria, as of 2020, seems to be the poverty capital of the world!. With an unemployed young population of over 30 million, 
@@ -41,6 +41,8 @@ export default class About extends Component {
                     members of the ‘modern city’ – rather than becoming a threat to all if remaining unable to generate livelihoods due to no 
                     education or skills at all, eventually turning to criminal activities(Ivagba, 2019).
                 </p>
+
+                <TeamCard/>
                 <div>
                     <h5 className="tc ">Leave us a Message</h5>
                 <Form className="container w-50 justify-center mb6 mt3">

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Modal } from 'react-bootstrap';
-import DonorForm from "./UserForm"
+import {Userform} from "./UserForm"
 
 
  class SignUp extends Component {
@@ -26,7 +26,7 @@ import DonorForm from "./UserForm"
            
             <Modal
             closeButton
-            size="md"
+            size="lg"
             aria-labelledby="contained-modal-title-vcenter"
             centered
             show={this.state.modalShow}
@@ -36,7 +36,7 @@ import DonorForm from "./UserForm"
              {this.state.modalTitle}
             </Modal.Header>
             <Modal.Body className="bg-warning">
-            <DonorForm/>
+            <Userform/>
             </Modal.Body>
            
           </Modal>
