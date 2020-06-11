@@ -59,7 +59,9 @@ area three (e.g here is the zoom link to our end-of sprint webinar, join and pro
 Acknowledgements
 
 Facebook Developer Circles & Andela Team Members
+
 Every member of the #BuildForSDG Team:
+
 Joy Ejiofor Sam Esidem
 
 Thank You! for the opportunity and support all the way.
