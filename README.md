@@ -6,7 +6,7 @@ Front-end work for Team-109
 
 About
 
-The app is a platform that will mobilize financial resources via crowdfunding individuals and corporations. Such raised funds will be used for the empowering the educationally disadvantaged youths to set up a small business or to acquire a trade or craft skill to set up small enterprise.
+The app is a platform that will mobilize financial resources via crowdfunding from individuals and corporations. Such raised funds will be used for empowering the educationally disadvantaged youths to set up a small business or to acquire a trade or craft skill to set up small enterprise.
 
 Why
 
