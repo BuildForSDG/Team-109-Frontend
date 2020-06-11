@@ -17,5 +17,49 @@ Usage
 The app has a web address such that is recognised by a web browser. A user can access the website by entering the URL of the web app, with this the home page of the app is loaded.
 
 
+Authors
+Buildforsdg Team-109
+
+Mentor
+
+Adafia Samuel   : https://www.linkedin.com/in/adafia-samuel-08418894/
+
+Program Assistant
+
+Cliff Gor    : https://www.linkedin.com/in/cliff-gor/
+
+
+Team members and roles played
+
+Roselyn Isimeto - Team Lead / Front End   : https://www.linkedin.com/in/roselyn-isimeto-0454b744/
+shittu Akeem - Frontend developer   : https://www.linkedin.com/in/akeem-shittu-43a5999b/
+Abayomi Adegunlehin -backend Lead 
+Muktar Shaibu Umar - Backend Developer
+Muheeb Idris- Web designer
+Mustapha Garba- Backend Developer
+Olamide Adeyanju- Business Developer
+
+Roselyn Isimeto - Documentation
+
+
+Contributing
+
+If this project sounds interesting to you and you'd like to contribute, thank you! First, you can send a mail to buildforsdg@andela.com to indicate your interest, why you'd like to support and what forms of support you can bring to the table, but here are areas we think we'd need the most help in this project :
+
+area one (e.g this app is about crowdfunding and you need feedback on your roadmap and feature list from the private sector / NGOs)
+area two (e.g you want people to opt-in and try using your staging app at staging.project-name.com and report any bugs via a form)
+area three (e.g here is the zoom link to our end-of sprint webinar, join and provide feedback as a stakeholder if you can)
+
+Acknowledgements
+
+Facebook Developer Circles & Andela Team Members
+Every member of the #BuildForSDG Team:
+Joy Ejiofor Sam Esidem
+
+Thank You! for the opportunity and support all the way.
+
+LICENSE
+
+MIT
 
 
