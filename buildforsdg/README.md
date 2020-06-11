@@ -11,6 +11,7 @@ Nigeria, as of 2020, seems to be the poverty capital of the world!. With an unem
 
 
 Usage
+
 The app has a web address such that is recognised by a web browser. A user can access the website by entering the URL of the web app, with this the home page of the app is loaded.
 
 
