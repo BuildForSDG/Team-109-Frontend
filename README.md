@@ -32,11 +32,17 @@ Cliff Gor    : https://www.linkedin.com/in/cliff-gor/
 Team members and roles played
 
 Roselyn Isimeto - Team Lead / Front End   : https://www.linkedin.com/in/roselyn-isimeto-0454b744/
+
 shittu Akeem - Frontend developer   : https://www.linkedin.com/in/akeem-shittu-43a5999b/
+
 Abayomi Adegunlehin -backend Lead 
+
 Muktar Shaibu Umar - Backend Developer
+
 Muheeb Idris- Web designer
+
 Mustapha Garba- Backend Developer
+
 Olamide Adeyanju- Business Developer
 
 Roselyn Isimeto - Documentation
