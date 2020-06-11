@@ -1,5 +1,5 @@
 # Team-109-Frontend
-Front-end work for Team-109
+A Crowdfunding App
 
 
 
