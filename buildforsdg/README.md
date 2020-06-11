@@ -1,5 +1,10 @@
 BuildForSDG/team-109 Crowdfunding (Frontend)
 
+About
+The Project is aimed at reducing poverty level by empowering Educationally Disadvantaged youths via crowdfunding  
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
