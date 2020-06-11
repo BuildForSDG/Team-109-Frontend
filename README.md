@@ -12,5 +12,10 @@ Why
 
 Nigeria, as of 2020, seems to be the poverty capital of the world!. With an unemployed young population of over 30 million, it is like a powder keg just waiting for a spark to explode. A proof to this fact, is the existence of the globally, notorious, terrorist groups like Boko Haram as well as the recently formed one-million robbery gang terrorizing citizens at their homes during the lockdown period of covid-19 pandemic. Available data suggest that 50 per cent of the unemployed youth across Nigeria have not received any formal education. The high poverty and unemployment level among this set of educationally disadvantaged youths needs to be addressed. There must be a deliberate effort by all of us to join hands via a crowdfunding medium, in order to help these youths achieve financial freedom else our existence is threatened!!
 
-Usage The app has a web address such that is recognised by a web browser. A user can access the website by entering the URL of the web app, with this the home page of the app is loaded.
+Usage 
+
+The app has a web address such that is recognised by a web browser. A user can access the website by entering the URL of the web app, with this the home page of the app is loaded.
+
+
+
 
