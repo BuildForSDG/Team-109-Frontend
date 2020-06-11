@@ -1,5 +1,5 @@
 # Team-109-Frontend
-# A Crowdfunding App
+# A Crowdfunding App for Youth Empowerment
 
 
 
